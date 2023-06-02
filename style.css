@@ -1,0 +1,263 @@
+body {
+  
+  overflow-x: hidden;
+  
+}
+.toplogo {
+  align-items: center;
+  background-color: #F5F5F5;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+ 
+}
+.thebar {
+  display: flex;
+  align-items: center;
+  border-radius: 5px;
+  padding: 5px;
+  margin-right: 500px;
+}
+.navigation{
+  background-color: black;
+}
+  nav ul li{
+      list-style-type: none;
+      display: inline-block;
+      padding: 10px 20px;
+      color: white;
+      margin-top: 10px;
+  }
+.navbar1{
+  text-align: center;
+  font-size: 17px;
+}
+
+
+.logo img {
+  width: 50px;
+  height: 50px;
+  margin-right: 10px;
+}
+.logo h1 {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+}
+.thebar{
+  display: flex;
+  align-items: center;
+  width: 300px;
+  height: 40px;
+  border: 2px solid #ccc;
+  border-radius: 20px;
+  padding: 5px;
+}
+.thebar input[type="text"] {
+  flex: 1;
+  border: none;
+  padding: 5px;
+}
+.thebar .fa-search {
+  margin-right: 10px;
+  color: #555;
+  font-size: 20px;
+}
+
+.get{
+  color: yellow;
+}
+.gad{
+  margin-left: 30px;
+  color: white;
+  margin-top: -20px;
+}
+.icon{
+  margin-left: 1125px;
+  margin-top: -10px;
+}
+.devicey{
+    background: linear-gradient(to right, rgb(221,182,221), rgb(212, 124, 212));
+    padding-bottom: 40px;
+    margin-left: 10%;
+    margin-right: 10%;
+  }
+  .devicey h2{
+    font-size: 70px;
+    margin-left: 10%;
+  }
+  .devicey p{
+    margin-left: 10%;
+    font-size: 20px;
+  }
+  #tv{
+    margin-left: 40%;
+    margin-top: -20em;
+  }
+  #tvimage{
+    height: 100%;
+    width: 100%;
+  }
+  #on{
+    background-color: yellow;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 10%;
+    border-color: yellow;
+  }
+  #off{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 1%;
+  }
+  .picturez1 img{
+    width: 1400px;
+}
+.offerz{
+    display: flex;
+    margin-left: 80px;
+    gap: 90px;
+}
+.deal{
+    font-size: 30px;
+}
+.offer{
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#button2{
+    height: 30px;
+    background-color: black;
+    color: yellow;
+}
+.firstone img{
+    width: 600px;
+    margin-left: 2%;
+    height: 360px;
+}
+.secondone img{
+    width: 550px;
+    height: 365px;
+    
+  }
+  .music{
+    display: flex;
+    gap: 60px;
+    margin-left: 30px;
+  }
+  .gaming{
+    background-color: rgb(206,196,231);
+    width: 1350px;
+    margin-left: 30px;
+    /* height: 270px; */
+    display: flex;
+  }
+  .level{
+    margin-left: 90px;
+    padding: 30px;
+    font-size: 55px;
+  }
+  .analog{
+    margin-left: 150px;
+    font-size: 18px;
+  }
+  .face{
+    margin-left: 40%;
+    
+  }
+.testimony{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 20px;
+}
+.testimonials{
+    margin-left: 90px;
+    font-size: 25px;
+    margin-top: 30px;
+    text-align: center;
+    font-style: italic;
+    
+   
+}
+.celin{
+    font-size: 29px;
+}
+.gadgetz{
+    color: yellow;
+}
+.letter{
+    display: flex;
+    gap: 70px;
+    margin-left: 300px;
+    font-size: 20px;
+    font-style: oblique;
+}
+#address{
+    border-radius: 5px;
+    width: 200px;
+    background-color: yellow;
+}
+.footer{
+    display: flex;
+    gap: 110px;
+    background-color: black;
+    color: white;
+    font-size: 10px;
+    border: solid black;
+}
+#products{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+.items{
+  border:solid rgb(198, 203,198 ) ;
+  border-radius: 5px;
+  margin-bottom: 2%;
+  text-align: center;
+  width: 20%;
+}
+.items img{
+width: 100%;
+}
+.cameron{
+  display: flex;
+}
+.mobilis{
+  display: flex;
+  justify-content: space-container;
+  margin: 0 130px;
+}
+.mobilis1 {
+  flex: 1;
+  text-align: center;
+  margin: 10px;
+  border: 1px solid #000;
+  padding: 10px;
+  box-sizing: border-box;
+}
+.mobilis1 img {
+  width: 100%;
+  height: auto;
+}
+.mobilis1 p {
+  margin-top: 10px;
+}
+.mobilis1.black-background {
+  background-color: #000;
+  color: #fff;
+}
+
+ 
+
+
+
+
